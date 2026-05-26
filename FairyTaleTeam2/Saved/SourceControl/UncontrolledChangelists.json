@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Textures/Body_albedo.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Textures/Cloth_albedo.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Textures/Hair_albedo.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Materials/lambert2.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Materials/lambert3.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Materials/lambert4.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Meshes/CoolGirl.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Meshes/CoolGirl_Skeleton.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Rigs/CoolGirl_PhysicsAsset.uasset"
+			]
+		}
+	]
+}
