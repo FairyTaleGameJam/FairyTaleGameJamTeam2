@@ -13,7 +13,12 @@
 				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Materials/lambert4.uasset",
 				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Meshes/CoolGirl.uasset",
 				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Meshes/CoolGirl_Skeleton.uasset",
-				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Rigs/CoolGirl_PhysicsAsset.uasset"
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Rigs/CoolGirl_PhysicsAsset.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Levels/Greybox.umap",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/Input/Actions/IA_Sprint.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/Input/IMC_Default.uasset"
 			]
 		}
 	]
