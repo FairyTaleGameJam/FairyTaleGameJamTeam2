@@ -28,7 +28,10 @@
 				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Art/Textures/T_Flashlight3.uasset",
 				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/FirstPerson/Blueprints/BP_EnemyAI.uasset",
 				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Anims/AI/WalkBlendSpace.uasset",
-				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Anims/AI/AP_EnemyAI.uasset"
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Anims/AI/AP_EnemyAI.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Anims/AI/BS_Idle_Walk_Run1.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Anims/AI/BS_EnemyAI.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Anims/AI/ABP_EnemyAI.uasset"
 			]
 		}
 	]
