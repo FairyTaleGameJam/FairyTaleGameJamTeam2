@@ -19,7 +19,16 @@
 				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/Input/Actions/IA_Sprint.uasset",
 				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/Input/IMC_Default.uasset",
-				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/FirstPerson/Blueprints/WBP_Stamina.uasset"
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/FirstPerson/Blueprints/WBP_Stamina.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Levels/GameplayPrototype.umap",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Art/Materials/M_PlayerLight.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/Input/Actions/IA_FlashToggle.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Art/Textures/T_Flashlight2.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Art/Textures/T_Flashlight1.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Art/Textures/T_Flashlight3.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/FirstPerson/Blueprints/BP_EnemyAI.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Anims/AI/WalkBlendSpace.uasset",
+				"E:/Unreal Projects/FairyTaleGameJamTeam2/FairyTaleTeam2/Content/a_Fairytale/Characters/Anims/AI/AP_EnemyAI.uasset"
 			]
 		}
 	]
