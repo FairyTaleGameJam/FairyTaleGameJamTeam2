@@ -1,0 +1,350 @@
+[30336:11300:0528/140809.801:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30336:32888:0528/140810.008:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30336:11300:0528/140810.103:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10408:33364:0528/140822.004:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F95958EF07F034A1A4A63804A07C1E48 will be ignored
+[30336:21100:0528/181626.843:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/181628.843:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/181704.916:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/181704.945:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181704.967:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181704.967:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/181704.973:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181704.974:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181704.974:VERBOSE1:tls_client_handshaker.cc(625)] 0-RTT handshake attempted but was rejected by the server
+[27104:24316:0528/181704.974:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181704.977:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181704.977:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181704.998:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181705.000:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/181735.903:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/181748.912:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/181800.212:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/181803.213:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/181819.217:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[30336:21100:0528/181847.220:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/181857.223:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[30336:21100:0528/181910.232:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/181920.231:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[30336:21100:0528/181927.233:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/181937.237:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[27104:24316:0528/181951.902:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/181952.000:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181952.000:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/181952.024:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181952.024:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181952.024:VERBOSE1:tls_client_handshaker.cc(625)] 0-RTT handshake attempted but was rejected by the server
+[27104:24316:0528/181952.024:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181952.024:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181952.027:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181952.027:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/181952.027:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/182003.236:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/182015.239:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[30336:21100:0528/182121.260:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/182131.263:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[30336:21100:0528/182136.263:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/182146.264:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[30336:21100:0528/182151.265:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/182210.272:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[30336:21100:0528/182226.273:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:11300:0528/182234.471:VERBOSE1:device_event_log_impl.cc(198)] [18:22:34.470] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[30336:11300:0528/182234.471:VERBOSE1:device_event_log_impl.cc(198)] [18:22:34.471] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[30336:11300:0528/182234.471:VERBOSE1:device_event_log_impl.cc(198)] [18:22:34.471] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[30336:21100:0528/182239.102:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/182242.106:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/182250.645:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/182250.646:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/182250.646:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/182250.672:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/182250.672:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/182250.672:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/182256.112:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/182306.113:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/182503.198:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/182513.199:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/182517.198:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/182527.216:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/182528.216:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[27104:24316:0528/182541.083:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/182541.107:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/182541.107:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/182541.139:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/182541.139:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/182541.139:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/182542.217:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/182543.218:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/182555.234:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/182822.407:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/182822.407:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/182822.408:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/182822.463:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/182822.463:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/182822.463:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/182916.359:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/182917.357:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/182927.375:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/182928.375:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/183040.421:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183041.421:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/183110.092:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/183110.120:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183110.121:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/183110.150:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183110.150:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183110.150:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/183141.459:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183151.475:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/183204.475:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183206.475:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/183232.493:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183247.510:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/183317.527:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183318.529:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/183321.527:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183327.527:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/183328.527:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183331.544:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/183407.012:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/183407.037:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183407.037:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/183407.069:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183407.069:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183407.069:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/183546.629:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183548.629:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/183644.315:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/183644.333:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183644.334:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/183644.356:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183644.357:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183644.357:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/183648.649:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183658.681:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/183759.703:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183804.733:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/183807.712:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183809.718:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/183814.734:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/183817.710:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/183922.272:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/183922.294:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183922.294:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/183922.317:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183922.317:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/183922.317:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/184039.807:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/184044.808:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:11300:0528/184206.363:VERBOSE1:profile_manager.cc(1325)] AddKeepAlive(Default, kExtensionUpdater). keep_alives=[kWaitingForFirstBrowserWindow (1), kAppWindow (1), kExtensionUpdater (1)]
+[27104:24316:0528/184206.380:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json?cup2key=14:G_oKDAyfkhAG3h0twlJyS7bs242Ik85n4SkjWnQbhjE&cup2hreq=32adbea21818a62f273df1250fa62a535cfac2f414ec4481fa70f6f3c3a22de9
+[27104:24316:0528/184206.398:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184206.409:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184206.427:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184206.427:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/184206.427:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184206.427:VERBOSE1:tls_client_handshaker.cc(625)] 0-RTT handshake attempted but was rejected by the server
+[27104:24316:0528/184206.427:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184206.430:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184206.430:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184206.430:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184206.461:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184206.461:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:11300:0528/184206.527:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json?cup2key=14:G_oKDAyfkhAG3h0twlJyS7bs242Ik85n4SkjWnQbhjE&cup2hreq=32adbea21818a62f273df1250fa62a535cfac2f414ec4481fa70f6f3c3a22de9
+[30336:11300:0528/184206.532:VERBOSE1:profile_manager.cc(1377)] RemoveKeepAlive(Default, kExtensionUpdater). keep_alives=[kWaitingForFirstBrowserWindow (1), kAppWindow (1)]
+[27104:24316:0528/184219.678:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/184219.679:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184219.680:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/184219.710:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184219.710:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184219.710:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/184308.912:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/184321.912:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/184445.965:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/184455.982:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/184519.265:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/184519.293:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184519.293:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/184519.321:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184519.321:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184519.321:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/184536.002:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/184537.002:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/184624.038:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/184634.038:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/184740.072:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/184742.072:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/184747.089:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/184748.089:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/184810.493:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/184810.510:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184810.540:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184810.540:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/184810.566:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184810.566:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/184810.566:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/184824.106:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/184825.107:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/185100.257:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27104:24316:0528/185100.257:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/185100.257:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27104:24316:0528/185100.298:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/185100.298:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27104:24316:0528/185100.298:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[30336:21100:0528/185103.213:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185114.218:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/185130.557:VERBOSE1:logging_network_change_observer.cc(90)] Observed a change to the network IP addresses
+[27104:24316:0528/185131.561:VERBOSE1:logging_network_change_observer.cc(100)] Observed a change to network connectivity state CONNECTION_NONE
+[30336:21100:0528/185132.481:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[27104:24316:0528/185132.570:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[27104:24316:0528/185132.570:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[27104:24316:0528/185132.571:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[27104:24316:0528/185133.067:VERBOSE1:logging_network_change_observer.cc(113)] Observed a network change to state CONNECTION_NONE
+[30336:21100:0528/185133.481:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185136.481:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:0
+[30336:21100:0528/185136.481:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/185140.482:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/185143.148:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:0
+[30336:11300:0528/185143.963:VERBOSE1:device_event_log_impl.cc(198)] [18:51:43.963] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[30336:11300:0528/185143.963:VERBOSE1:device_event_log_impl.cc(198)] [18:51:43.963] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[30336:11300:0528/185143.963:VERBOSE1:device_event_log_impl.cc(198)] [18:51:43.963] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[30336:21100:0528/185146.239:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/185149.232:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185153.238:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185155.522:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:0
+[30336:21100:0528/185159.238:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185219.561:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:0
+[30336:21100:0528/185303.279:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185307.629:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:0
+[30336:21100:0528/185313.296:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/185333.713:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[30336:21100:0528/185340.313:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185350.313:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185439.348:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185442.348:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185443.699:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:0
+[30336:21100:0528/185506.365:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185516.383:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185530.383:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185540.383:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185549.389:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185559.406:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185608.407:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185621.424:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/185622.757:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[30336:21100:0528/185626.424:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185637.424:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185715.458:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185725.458:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185755.742:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:0
+[30336:21100:0528/185757.475:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185806.475:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185816.493:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185820.493:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/185859.260:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[30336:21100:0528/185905.527:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185915.527:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/185948.544:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/185958.561:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/190031.578:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/190036.579:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/190152.140:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[30336:21100:0528/190240.658:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/190250.660:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/190329.694:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/190333.694:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/190415.729:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/190419.828:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:0
+[27104:24316:0528/190424.911:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[30336:21100:0528/190425.729:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/190642.824:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/190643.825:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[27104:24316:0528/190711.026:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[30336:21100:0528/190711.842:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/190721.859:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/190742.870:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/190746.869:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/190813.960:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/190825.960:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/190833.965:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/190837.964:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/190840.969:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[30336:21100:0528/190852.966:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/190903.968:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[27104:24316:0528/190916.308:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json?cup2key=14:REnV207P0qMWz9rWABwFnM8KRSw0FRPzt8SKA-Zel_A&cup2hreq=43a73cd189fe3f20224878c99c076fb8ce27a61aed88765fec3cfed2ea17d6b2
+[30336:21100:0528/190931.979:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:11300:0528/190934.646:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json?cup2key=14:REnV207P0qMWz9rWABwFnM8KRSw0FRPzt8SKA-Zel_A&cup2hreq=43a73cd189fe3f20224878c99c076fb8ce27a61aed88765fec3cfed2ea17d6b2
+[30336:11300:0528/190934.646:VERBOSE1:update_checker.cc(268)] RequestSender failed -106
+[27104:24316:0528/190934.647:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://update.googleapis.com/service/update2/json?cup2key=14:FVK4A5yjqUGYijTrhdgxlk7vr7-FZ76G-H0rPb_WK-Y&cup2hreq=152539eb13672c7f5016819b68854a6ba75d55127a6937f75256e9fcf5c92788
+[30336:11300:0528/190943.981:VERBOSE1:request_sender.cc(183)] Request completed from url: http://update.googleapis.com/service/update2/json?cup2key=14:FVK4A5yjqUGYijTrhdgxlk7vr7-FZ76G-H0rPb_WK-Y&cup2hreq=152539eb13672c7f5016819b68854a6ba75d55127a6937f75256e9fcf5c92788
+[30336:11300:0528/190943.981:VERBOSE1:update_checker.cc(268)] RequestSender failed -106
+[30336:11300:0528/190943.981:VERBOSE1:component_updater_service.cc(472)] Update completed with error 5
+[30336:11300:0528/190952.799:VERBOSE1:device_event_log_impl.cc(198)] [19:09:52.800] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[30336:11300:0528/190952.799:VERBOSE1:device_event_log_impl.cc(198)] [19:09:52.800] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[30336:11300:0528/190952.799:VERBOSE1:device_event_log_impl.cc(198)] [19:09:52.800] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[30336:21100:0528/190955.968:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[27104:24316:0528/190958.067:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[30336:21100:0528/190959.967:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/191007.981:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/191017.981:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/191022.154:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:11300:0528/191023.063:VERBOSE1:device_event_log_impl.cc(198)] [19:10:23.063] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[30336:11300:0528/191023.063:VERBOSE1:device_event_log_impl.cc(198)] [19:10:23.064] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[30336:11300:0528/191023.064:VERBOSE1:device_event_log_impl.cc(198)] [19:10:23.064] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[30336:21100:0528/191023.156:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=23})
+[30336:11300:0528/191023.159:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[30336:21100:0528/191024.648:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=22})
+[30336:21100:0528/191025.988:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=21})
+[30336:21100:0528/191026.991:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=20})
+[30336:21100:0528/191027.992:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=19})
+[30336:21100:0528/191030.992:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=18})
+[30336:21100:0528/191032.991:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=19})
+[30336:21100:0528/191033.987:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=20})
+[30336:21100:0528/191034.987:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=21})
+[30336:21100:0528/191036.003:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=22})
+[30336:21100:0528/191038.004:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=23})
+[30336:21100:0528/191038.995:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/191045.015:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/191047.002:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/191050.001:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/191131.172:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/191134.175:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/191135.175:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/191136.176:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/191139.183:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/191141.178:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/191142.182:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=23})
+[30336:21100:0528/191143.180:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=22})
+[30336:21100:0528/191149.180:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/191152.182:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:21100:0528/191155.181:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/191221.185:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=28})
+[27104:24316:0528/191230.951:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[30336:21100:0528/191242.189:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:11300:0528/191248.153:VERBOSE1:device_event_log_impl.cc(198)] [19:12:48.153] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[30336:11300:0528/191248.153:VERBOSE1:device_event_log_impl.cc(198)] [19:12:48.153] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[30336:11300:0528/191248.153:VERBOSE1:device_event_log_impl.cc(198)] [19:12:48.153] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[30336:21100:0528/191250.082:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:11300:0528/191258.518:VERBOSE1:device_event_log_impl.cc(198)] [19:12:58.518] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[30336:11300:0528/191258.518:VERBOSE1:device_event_log_impl.cc(198)] [19:12:58.518] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[30336:11300:0528/191258.518:VERBOSE1:device_event_log_impl.cc(198)] [19:12:58.518] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[30336:21100:0528/191300.092:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=27})
+[30336:21100:0528/191302.096:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=26})
+[30336:11300:0528/191307.278:VERBOSE1:device_event_log_impl.cc(198)] [19:13:07.279] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[30336:11300:0528/191307.278:VERBOSE1:device_event_log_impl.cc(198)] [19:13:07.279] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[30336:11300:0528/191307.278:VERBOSE1:device_event_log_impl.cc(198)] [19:13:07.279] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[30336:21100:0528/191309.095:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=25})
+[30336:21100:0528/191311.096:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=24})
+[30336:21100:0528/191312.098:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=22})
+[30336:21100:0528/191313.774:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=20})
+[30336:21100:0528/191314.307:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=18})
+[30336:11300:0528/191314.340:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[30336:21100:0528/191315.104:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=17})
+[30336:21100:0528/191316.103:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=15})
+[30336:21100:0528/191317.501:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=14})
+[30336:21100:0528/191318.377:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=13})
+[30336:21100:0528/191319.489:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=11})
+[30336:11300:0528/191319.602:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[30336:21100:0528/191320.308:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=10})
+[30336:21100:0528/191322.296:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=11})
+[30336:21100:0528/191325.843:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005E9C000EAD40}, {new_limit=13})
+[30100:2952:0528/191329.193:VERBOSE1:frame_impl.cc(620)] frame 6-3472FDC0439A07A7E3311B81B5A7DAA5 disconnected (reason=RENDER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[30100:2952:0528/191329.194:VERBOSE1:frame_impl.cc(633)] frame 6-3472FDC0439A07A7E3311B81B5A7DAA5 connection retry scheduled

@@ -1,0 +1,13 @@
+[7132:12380:0528/140645.417:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7132:25464:0528/140645.539:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7132:24128:0528/140645.552:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31096:23224:0528/140645.594:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7132:12380:0528/140645.621:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29316:24736:0528/140650.320:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-070534D0189482B946081ABFB9D975C6 will be ignored
+[16476:15656:0528/140650.396:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-F21541F9326E4DDF8BC55893549419E7 will be ignored
+[27596:4356:0528/140650.463:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[7132:24128:0528/140650.542:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[31096:23224:0528/140650.605:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7132:12380:0528/140701.776:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7132:12380:0528/140711.785:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7132:12380:0528/140716.776:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0

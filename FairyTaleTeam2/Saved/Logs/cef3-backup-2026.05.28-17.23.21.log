@@ -1,0 +1,318 @@
+[33360:31108:0528/130725.269:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[33360:31108:0528/130725.414:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[33360:15568:0528/130725.541:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[33360:31108:0528/130725.655:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27668:25132:0528/130730.914:ERROR:backend_impl.cc(989)] Critical error found -8
+[27668:25132:0528/130730.986:WARNING:storage_block-inl.h(138)] Failed data load.
+[27668:25132:0528/130730.986:WARNING:storage_block-inl.h(138)] Failed data load.
+[27668:25132:0528/130730.987:ERROR:entry_impl.cc(955)] Failed to save user data
+[25364:30332:0528/130731.269:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CD853315AFDC9E1B9C5FDB56824FFDA8 will be ignored
+[27668:26660:0528/130731.914:WARNING:cache_util.cc(144)] Unable to delete cache folder.
+[33360:15568:0528/131149.615:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_2070703226\hfnkpimlhhgieaddgfemjhofmfblmnib_10552_all_oodyg6luhn2kwpc3erkehlpgki.crx3
+[33360:15568:0528/131149.621:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_248171396
+[33360:15568:0528/131149.684:VERBOSE1:component_installer.cc(146)] Install: version=10552 current version=0.0.0.0
+[33360:15568:0528/131149.684:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_248171396 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\CertificateRevocation\10552
+[33360:31108:0528/131149.699:VERBOSE1:component_installer.cc(572)] Component ready, version 10552 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\CertificateRevocation\10552
+[27668:18796:0528/131149.718:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[27668:18796:0528/131149.719:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131149.719:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27668:18796:0528/131149.750:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131149.750:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131149.750:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[33360:31108:0528/131149.783:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:15600:0528/131205.583:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:17416:0528/131231.973:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/adatfklhkqalphetgwxwdtdhwwva_145.0.7584.0/khaoiebndkojlmppeemjhbpbandiljpe_145.0.7584.0_win_acduhvayolvf63lq6ij3ralxpk7q.crx3
+[33360:15568:0528/131236.041:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_1117444018\khaoiebndkojlmppeemjhbpbandiljpe_145.0.7584.0_win_acduhvayolvf63lq6ij3ralxpk7q.crx3
+[33360:15568:0528/131236.041:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_231961652
+[33360:15568:0528/131236.108:VERBOSE1:component_installer.cc(146)] Install: version=145.0.7584.0 current version=0.0.0.0
+[33360:15568:0528/131236.108:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_231961652 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\FileTypePolicies\145.0.7584.0
+[33360:31108:0528/131236.123:VERBOSE1:component_installer.cc(572)] Component ready, version 145.0.7584.0 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\FileTypePolicies\145.0.7584.0
+[33360:31108:0528/131236.123:VERBOSE1:file_type_policies_component_installer.cc(90)] Component ready, version 145.0.7584.0 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\FileTypePolicies\145.0.7584.0
+[33360:17416:0528/131236.123:VERBOSE1:file_type_policies_component_installer.cc(45)] Reading Download File Types from file: C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\FileTypePolicies\145.0.7584.0\download_file_types.pb
+[27668:18796:0528/131236.140:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[27668:18796:0528/131236.141:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131236.174:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131236.174:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27668:18796:0528/131236.181:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131236.181:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131236.181:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[33360:31108:0528/131236.273:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:15600:0528/131245.624:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131255.626:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:15600:0528/131258.626:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131306.626:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[27668:18796:0528/131309.759:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27668:18796:0528/131309.779:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131309.803:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131309.810:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131309.810:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27668:18796:0528/131309.810:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131309.810:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[33360:15600:0528/131316.629:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:17416:0528/131322.726:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acrx7ouhu6es4mtakecyfqbyef2q_1.1.0.3/laoigpblnllgcgjnjnllmfolckpjlhki_1.1.0.3_all_adwgvw4jdcarox4vlsm7t4gq257a.crx3
+[33360:15600:0528/131323.645:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:15568:0528/131326.779:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_1415155052\laoigpblnllgcgjnjnllmfolckpjlhki_1.1.0.3_all_adwgvw4jdcarox4vlsm7t4gq257a.crx3
+[33360:15568:0528/131326.780:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_1039198328
+[33360:15568:0528/131326.847:VERBOSE1:component_installer.cc(146)] Install: version=1.1.0.3 current version=0.0.0.0
+[33360:15568:0528/131326.847:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_1039198328 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\MEIPreload\1.1.0.3
+[33360:31108:0528/131326.862:VERBOSE1:component_installer.cc(572)] Component ready, version 1.1.0.3 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\MEIPreload\1.1.0.3
+[27668:18796:0528/131326.878:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[27668:18796:0528/131326.879:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131326.880:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27668:18796:0528/131326.983:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131326.983:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131326.983:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[33360:31108:0528/131327.079:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:17416:0528/131327.121:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/pusj5vh3lkssdnng52mdw6khti_3091/jflookgnkcckhobaglndicnbbgbonegd_3091_all_adfb4phbxwqsxsfvrtgwwtg25z6a.crx3
+[33360:15568:0528/131331.212:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_538070409\jflookgnkcckhobaglndicnbbgbonegd_3091_all_adfb4phbxwqsxsfvrtgwwtg25z6a.crx3
+[33360:15568:0528/131331.213:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_410733829
+[33360:15568:0528/131331.280:VERBOSE1:component_installer.cc(146)] Install: version=3091 current version=0.0.0.0
+[33360:15568:0528/131331.280:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_410733829 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\SafetyTips\3091
+[33360:31108:0528/131331.298:VERBOSE1:component_installer.cc(572)] Component ready, version 3091 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\SafetyTips\3091
+[27668:18796:0528/131331.312:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[33360:31108:0528/131331.379:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:17416:0528/131335.690:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/grniua65h2jau564p7fpo3mpem_1679/efniojlnjndmcbiieegkicadnoecjjef_1679_all_aji7t4ppnqp3l6chhyx3tcdj2m.crx3
+[33360:15568:0528/131339.731:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_1560944392\efniojlnjndmcbiieegkicadnoecjjef_1679_all_aji7t4ppnqp3l6chhyx3tcdj2m.crx3
+[33360:15568:0528/131339.733:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_1482068140
+[33360:15568:0528/131339.799:VERBOSE1:component_installer.cc(146)] Install: version=1679 current version=0.0.0.0
+[33360:15568:0528/131339.799:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_1482068140 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\PKIMetadata\1679
+[33360:31108:0528/131339.813:VERBOSE1:component_installer.cc(572)] Component ready, version 1679 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\PKIMetadata\1679
+[27668:18796:0528/131339.835:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[27668:18796:0528/131339.836:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131339.864:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131339.864:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131339.864:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27668:18796:0528/131339.864:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131339.864:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[33360:31108:0528/131339.980:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:15600:0528/131343.648:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131346.648:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:17416:0528/131348.474:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/achvulkwv227g2sp23ji27vzxsiq_2026.5.25.61/ggkkehgbnfjpeggfpleeakpidbkibbmn_2026.5.25.61_all_fv3etmzrlkgy2u2xiii45shfse.crx3
+[33360:15568:0528/131352.532:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_876701449\ggkkehgbnfjpeggfpleeakpidbkibbmn_2026.5.25.61_all_fv3etmzrlkgy2u2xiii45shfse.crx3
+[33360:15568:0528/131352.533:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_1940158933
+[33360:15568:0528/131352.599:VERBOSE1:component_installer.cc(146)] Install: version=2026.5.25.61 current version=0.0.0.0
+[33360:15568:0528/131352.599:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_1940158933 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\Crowd Deny\2026.5.25.61
+[33360:31108:0528/131352.615:VERBOSE1:component_installer.cc(572)] Component ready, version 2026.5.25.61 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\Crowd Deny\2026.5.25.61
+[27668:18796:0528/131352.634:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[33360:31108:0528/131352.681:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:15600:0528/131355.665:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131358.666:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:17416:0528/131405.427:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acaldksiunzh56452py2db5mnbpa_120.0.6050.0/jamhcnnkihinmdlkakkaopbjbbcngflc_120.0.6050.0_all_dgzfpknn7v3zslsbhrwu6bt44e.crx3
+[33360:15568:0528/131409.467:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_496562561\jamhcnnkihinmdlkakkaopbjbbcngflc_120.0.6050.0_all_dgzfpknn7v3zslsbhrwu6bt44e.crx3
+[33360:15568:0528/131409.471:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_438188444
+[33360:15568:0528/131409.585:VERBOSE1:component_installer.cc(146)] Install: version=120.0.6050.0 current version=0.0.0.0
+[33360:15568:0528/131409.586:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_438188444 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\hyphen-data\120.0.6050.0
+[33360:31108:0528/131409.601:VERBOSE1:component_installer.cc(572)] Component ready, version 120.0.6050.0 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\hyphen-data\120.0.6050.0
+[33360:31108:0528/131409.601:VERBOSE1:hyphenation_component_installer.cc(110)] Hyphenation Component ready, version 120.0.6050.0 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\hyphen-data\120.0.6050.0
+[27668:18796:0528/131409.601:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[33360:31108:0528/131409.633:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:15600:0528/131416.668:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131419.684:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:17416:0528/131426.593:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/j2hxfei2occ5siitujtlwgp6xi_3/ojhpjlocmbogdgmfpkhlaaeamibhnphh_3_all_gplutbkdljxxbjolk3siq7kive.crx3
+[33360:15568:0528/131430.636:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_218466584\ojhpjlocmbogdgmfpkhlaaeamibhnphh_3_all_gplutbkdljxxbjolk3siq7kive.crx3
+[33360:15568:0528/131430.639:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_773696574
+[33360:15568:0528/131430.723:VERBOSE1:component_installer.cc(146)] Install: version=3 current version=0.0.0.0
+[33360:15568:0528/131430.723:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_773696574 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\ZxcvbnData\3
+[33360:31108:0528/131430.736:VERBOSE1:component_installer.cc(572)] Component ready, version 3 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\ZxcvbnData\3
+[27668:18796:0528/131430.754:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[33360:31108:0528/131430.869:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:17416:0528/131452.065:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/aca2hvz26rf7nouxdifokqhxrypa_2025.6.13.84507/eeigpngbgcognadeebkilcpcaedhellh_2025.06.13.084507_all_acip2yapafsolnpcvaohkisaowaq.crx3
+[33360:15568:0528/131456.107:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_144890990\eeigpngbgcognadeebkilcpcaedhellh_2025.06.13.084507_all_acip2yapafsolnpcvaohkisaowaq.crx3
+[33360:15568:0528/131456.110:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_2022342028
+[33360:15568:0528/131456.314:VERBOSE1:component_installer.cc(146)] Install: version=2025.6.13.84507 current version=0.0.0.0
+[33360:15568:0528/131456.314:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_2022342028 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\AutofillStates\2025.6.13.84507
+[33360:31108:0528/131456.327:VERBOSE1:component_installer.cc(572)] Component ready, version 2025.6.13.84507 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\AutofillStates\2025.6.13.84507
+[27668:18796:0528/131456.346:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[33360:31108:0528/131456.473:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:17416:0528/131456.515:VERBOSE1:background_downloader_win.cc(478)] Starting BITS download for: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/af5e7gndpipvjfca7x3cj66vwm_2025.7.24.0/gonpemdgkjcecdgbnaabipppbmgfggbe_2025.07.24.00_all_hou4jz7zmeg5zedchpigdjxhve.crx3
+[33360:15568:0528/131500.557:VERBOSE1:unpacker.cc(66)] Verifying component: C:\Users\emanu\AppData\Local\Temp\chrome_BITS_33360_1815140075\gonpemdgkjcecdgbnaabipppbmgfggbe_2025.07.24.00_all_hou4jz7zmeg5zedchpigdjxhve.crx3
+[33360:15568:0528/131500.559:VERBOSE1:unpacker.cc(95)] Unpacking in: C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_1386401130
+[33360:15568:0528/131500.626:VERBOSE1:component_installer.cc(146)] Install: version=2025.7.24.0 current version=0.0.0.0
+[33360:15568:0528/131500.626:VERBOSE1:component_installer.cc(165)] unpack_path=C:\Users\emanu\AppData\Local\Temp\chrome_Unpacker_BeginUnzipping33360_1386401130 install_path=C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\FirstPartySetsPreloaded\2025.7.24.0
+[33360:31108:0528/131500.640:VERBOSE1:component_installer.cc(572)] Component ready, version 2025.7.24.0 in C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613\FirstPartySetsPreloaded\2025.7.24.0
+[27668:18796:0528/131500.657:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://update.googleapis.com/service/update2/json
+[33360:31108:0528/131500.774:VERBOSE1:request_sender.cc(183)] Request completed from url: https://update.googleapis.com/service/update2/json
+[33360:31108:0528/131500.774:VERBOSE1:component_updater_service.cc(472)] Update completed with error 0
+[33360:15600:0528/131515.708:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/131533.724:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[27668:18796:0528/131546.217:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27668:18796:0528/131546.218:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131546.243:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131546.244:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27668:18796:0528/131546.244:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131546.244:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131546.244:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[33360:15600:0528/131627.765:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131628.765:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/131629.764:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/131634.764:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=20})
+[33360:15600:0528/131637.768:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=19})
+[33360:15600:0528/131638.768:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/131644.768:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/131645.769:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/131649.769:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/131651.768:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/131655.769:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/131702.788:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131726.791:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/131736.808:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131754.811:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:15600:0528/131802.829:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/131806.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:15600:0528/131807.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/131817.833:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:15600:0528/131822.834:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131824.841:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:15600:0528/131825.844:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131826.840:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[27668:18796:0528/131835.226:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27668:18796:0528/131835.245:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131835.246:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[27668:18796:0528/131835.268:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131835.277:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131835.277:VERBOSE1:tls_client_handshaker.cc(625)] 0-RTT handshake attempted but was rejected by the server
+[27668:18796:0528/131835.277:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131835.277:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131835.277:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131835.292:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/131835.292:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[33360:15600:0528/131836.141:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/131840.143:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=26})
+[33360:15600:0528/131843.143:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=27})
+[33360:15600:0528/131850.147:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=28})
+[33360:15600:0528/131856.153:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=27})
+[33360:15600:0528/131908.873:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=28})
+[33360:15600:0528/131911.342:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=27})
+[33360:15600:0528/131914.865:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/131916.131:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/131917.193:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:31108:0528/131917.417:VERBOSE1:device_event_log_impl.cc(198)] [13:19:17.409] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[33360:31108:0528/131917.425:VERBOSE1:device_event_log_impl.cc(198)] [13:19:17.425] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[33360:31108:0528/131917.425:VERBOSE1:device_event_log_impl.cc(198)] [13:19:17.425] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[33360:15600:0528/131917.900:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=20})
+[33360:31108:0528/131918.103:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33360:15600:0528/131918.885:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=19})
+[33360:15600:0528/131919.880:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=17})
+[33360:15600:0528/131920.879:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=16})
+[33360:15600:0528/131921.875:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=14})
+[33360:15600:0528/131924.834:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=13})
+[33360:15600:0528/131927.885:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=14})
+[33360:31108:0528/131928.101:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33360:15600:0528/131928.882:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=13})
+[33360:15600:0528/131930.886:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=14})
+[33360:31108:0528/131933.101:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33360:31108:0528/131958.126:VERBOSE1:device_event_log_impl.cc(198)] [13:19:58.112] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[33360:31108:0528/131958.128:VERBOSE1:device_event_log_impl.cc(198)] [13:19:58.128] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[33360:31108:0528/131958.128:VERBOSE1:device_event_log_impl.cc(198)] [13:19:58.128] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[33360:15600:0528/132044.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=15})
+[33360:15600:0528/132044.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=16})
+[33360:15600:0528/132044.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=17})
+[33360:15600:0528/132044.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=18})
+[33360:15600:0528/132044.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=19})
+[33360:15600:0528/132044.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=20})
+[33360:15600:0528/132044.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/132044.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/132044.355:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/132044.751:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/132044.751:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/132044.751:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/132044.751:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/132044.751:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=20})
+[33360:15600:0528/132044.751:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=18})
+[33360:15600:0528/132044.751:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=17})
+[33360:15600:0528/132044.751:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=16})
+[33360:15600:0528/132044.753:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=17})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=18})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=19})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=20})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=19})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=18})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=17})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=16})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=15})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=16})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=15})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=16})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=17})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=18})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=17})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=16})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=15})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=14})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=15})
+[33360:15600:0528/132044.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=17})
+[33360:15600:0528/132045.109:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=18})
+[33360:15600:0528/132047.111:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=19})
+[33360:15600:0528/132049.103:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/132050.103:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/132051.104:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/132052.104:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=27})
+[33360:15600:0528/132055.105:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=28})
+[33360:15600:0528/132058.105:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=27})
+[33360:15600:0528/132105.107:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=26})
+[33360:15600:0528/132110.108:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=27})
+[33360:15600:0528/132115.110:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=28})
+[33360:31108:0528/132116.330:VERBOSE1:device_event_log_impl.cc(198)] [13:21:16.320] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[33360:31108:0528/132116.330:VERBOSE1:device_event_log_impl.cc(198)] [13:21:16.330] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[33360:31108:0528/132116.330:VERBOSE1:device_event_log_impl.cc(198)] [13:21:16.330] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[33360:15600:0528/132117.038:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=27})
+[33360:15600:0528/132119.032:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=26})
+[33360:15600:0528/132120.032:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/132122.031:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:15600:0528/132123.031:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/132125.031:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/132126.053:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/132129.036:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/132131.139:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/132132.049:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/132134.059:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/132137.036:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=20})
+[33360:15600:0528/132139.039:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=19})
+[33360:15600:0528/132142.040:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=20})
+[33360:15600:0528/132144.052:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[27668:18796:0528/132144.135:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[27668:18796:0528/132144.177:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/132144.206:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/132144.225:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/132144.225:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/132144.225:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/132144.227:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[27668:18796:0528/132144.230:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[33360:15600:0528/132147.059:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/132151.057:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/132155.057:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:31108:0528/132158.439:VERBOSE1:device_event_log_impl.cc(198)] [13:21:58.439] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[33360:31108:0528/132158.439:VERBOSE1:device_event_log_impl.cc(198)] [13:21:58.439] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[33360:31108:0528/132158.440:VERBOSE1:device_event_log_impl.cc(198)] [13:21:58.439] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[33360:15600:0528/132159.066:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/132200.146:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:15600:0528/132204.147:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/132207.148:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=26})
+[33360:15600:0528/132209.148:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=27})
+[33360:31108:0528/132214.400:VERBOSE1:device_event_log_impl.cc(198)] [13:22:14.400] Display: EVENT: screen_win.cc:893 Displays updated, count: 2
+[33360:31108:0528/132214.400:VERBOSE1:device_event_log_impl.cc(198)] [13:22:14.400] Display: EVENT: screen_win.cc:895 Display[506338745] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[33360:31108:0528/132214.400:VERBOSE1:device_event_log_impl.cc(198)] [13:22:14.400] Display: EVENT: screen_win.cc:895 Display[3852692371] bounds=[1536,-216 1920x1080], workarea=[1536,-216 1920x1032], scale=1, rotation=0, panel_rotation=0 external detected
+[33360:15600:0528/132215.068:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=26})
+[33360:15600:0528/132221.075:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/132224.109:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=26})
+[33360:15600:0528/132227.102:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=27})
+[33360:15600:0528/132236.245:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=25})
+[33360:15600:0528/132237.235:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:15600:0528/132238.230:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/132240.237:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:31108:0528/132240.573:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33360:15600:0528/132244.269:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/132246.232:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:15600:0528/132247.233:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=24})
+[33360:31108:0528/132250.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33360:15600:0528/132251.234:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=23})
+[33360:15600:0528/132258.248:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[33360:31108:0528/132300.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33360:15600:0528/132307.250:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/132308.248:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=20})
+[33360:15600:0528/132315.247:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=21})
+[33360:15600:0528/132319.650:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000073CC000F6D40}, {new_limit=22})
+[2380:28464:0528/132321.424:VERBOSE1:frame_impl.cc(620)] frame 6-EE6DE5D0316A205E72843E811538668A disconnected (reason=RENDER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[2380:28464:0528/132321.425:VERBOSE1:frame_impl.cc(633)] frame 6-EE6DE5D0316A205E72843E811538668A connection retry scheduled
+[2380:28464:0528/132321.425:VERBOSE1:frame_impl.cc(620)] frame 6-6A945D50BC3DD15C9875E49A068E574D disconnected (reason=BROWSER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[2380:28464:0528/132321.425:VERBOSE1:frame_impl.cc(633)] frame 6-6A945D50BC3DD15C9875E49A068E574D connection retry scheduled
