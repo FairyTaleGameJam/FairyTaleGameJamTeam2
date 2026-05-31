@@ -1,5 +1,1 @@
-2026/05/31-00:33:15.383 f54 Log #3: 2 ops saved to Table #4 OK
-2026/05/31-00:33:15.384 f54 Archiving E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Site Characteristics Database/000003.log: OK
-2026/05/31-00:33:15.385 f54 Table #4: 2 entries OK
-2026/05/31-00:33:15.385 f54 Archiving E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/05/31-00:33:15.451 f54 **** Repaired leveldb E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/05/31-00:33:15.460 f54 Reusing MANIFEST E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
