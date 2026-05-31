@@ -1,5 +1,15 @@
-[11976:18932:0530/183939.552:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11976:18932:0530/183939.625:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11976:18932:0530/183945.377:ERROR:device_event_log_impl.cc(196)] [18:39:44.974] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[15924:8840:0530/183948.062:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FF63219CD3222E11A3CCD76EB7AA17E5 will be ignored
-[11976:18932:0530/200229.091:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14152:3196:0531/003315.239:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14152:3196:0531/003315.289:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14152:3924:0531/003318.027:WARNING:leveldb_database.cc(141)] Unable to open E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14152:3924:0531/003318.029:WARNING:leveldb_database.cc(141)] Unable to open E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14152:3924:0531/003318.031:WARNING:leveldb_database.cc(141)] Unable to open E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14152:3924:0531/003318.033:WARNING:leveldb_database.cc(141)] Unable to open E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14152:3924:0531/003318.721:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14784:11148:0531/003318.722:ERROR:backend_impl.cc(989)] Critical error found -8
+[14784:11148:0531/003318.722:WARNING:storage_block-inl.h(138)] Failed data load.
+[14784:11148:0531/003318.722:ERROR:entry_impl.cc(1029)] No file for b2020000
+[14784:11148:0531/003318.723:WARNING:storage_block-inl.h(138)] Failed data load.
+[14152:3924:0531/003318.723:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18044:16620:0531/003319.043:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C32536EF9D2A228AF9A1FE5792253C0A will be ignored
+[14152:3196:0531/003323.430:ERROR:device_event_log_impl.cc(196)] [00:33:23.420] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[14152:3196:0531/004431.448:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
