@@ -1,6 +1,14 @@
-[6412:36224:0601/145430.922:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6412:36224:0601/145430.950:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[6412:36224:0601/145430.993:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6412:36224:0601/145436.227:ERROR:device_event_log_impl.cc(196)] [14:54:36.164] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[21524:18932:0601/145437.396:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5AB474D537B0E85D527F8CF4C6E155A6 will be ignored
-[6412:36224:0601/145640.762:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[12740:27876:0601/161259.536:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12740:20516:0601/161259.603:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12740:27876:0601/161259.604:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35168:28164:0601/161302.513:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-56A0A1039FB4A7454D5D0BFB066A4BA5 will be ignored
+[12740:164:0601/161316.864:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12740:27876:0601/161753.880:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12740:27876:0601/161758.876:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12740:27876:0601/161828.884:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12740:164:0601/164456.637:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12740:27876:0601/165738.577:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12740:27876:0601/165948.677:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12740:27876:0601/165953.675:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12740:27876:0601/170013.692:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12740:27876:0601/170309.566:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
