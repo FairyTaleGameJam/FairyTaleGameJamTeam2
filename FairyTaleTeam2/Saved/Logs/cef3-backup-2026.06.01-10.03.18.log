@@ -1,0 +1,8 @@
+[10680:3552:0601/055713.054:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10680:3552:0601/055713.102:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13448:8408:0601/055716.494:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[13448:8408:0601/055716.494:ERROR:backend_impl.cc(989)] Critical error found -8
+[13448:8408:0601/055716.578:ERROR:entry_impl.cc(955)] Failed to save user data
+[22264:22320:0601/055717.516:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3CDEB7610413AE1AA55B5DE0E8505779 will be ignored
+[10680:3552:0601/055722.333:ERROR:device_event_log_impl.cc(196)] [05:57:22.327] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[10680:3552:0601/060129.651:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
