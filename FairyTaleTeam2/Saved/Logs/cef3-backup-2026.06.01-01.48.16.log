@@ -1,40 +1,0 @@
-[5304:2408:0531/205307.215:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5304:2408:0531/205307.322:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[5304:34428:0531/205307.399:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[5304:2408:0531/205307.459:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5304:35708:0531/205311.498:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5304:35708:0531/205311.501:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5304:35708:0531/205311.503:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5304:35708:0531/205311.504:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5304:35708:0531/205311.904:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3548:23880:0531/205311.906:ERROR:backend_impl.cc(989)] Critical error found -8
-[3548:23880:0531/205311.906:ERROR:entry_impl.cc(1029)] No file for b2020020
-[3548:23880:0531/205311.906:WARNING:storage_block-inl.h(138)] Failed data load.
-[5304:35708:0531/205311.909:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[27004:30016:0531/205312.271:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-952EA59B7704D78CF98C5009900388FB will be ignored
-[5304:12844:0531/205321.303:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[15684:29760:0531/214701.809:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-7C405D52FE706F0FA30A2B7DFE2D019D will be ignored
-[23788:31660:0531/214815.943:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[23788:35372:0531/214816.075:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[23788:35820:0531/214816.560:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[23788:29220:0531/214816.569:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[23788:17796:0531/214816.579:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[23788:35372:0531/214816.589:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[23788:35140:0531/214816.745:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-

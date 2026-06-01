@@ -1,3 +1,7 @@
-2026/06/01-00:50:53.491 83f8 Reusing MANIFEST C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
-2026/06/01-00:50:53.495 83f8 Recovering log #9
-2026/06/01-00:50:53.496 83f8 Reusing old log C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Site Characteristics Database/000009.log 
+2026/06/01-03:31:12.379 5584 Reusing MANIFEST E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/06/01-03:31:12.415 5584 Recovering log #3
+2026/06/01-03:31:12.415 5584 Level-0 table #3: started
+2026/06/01-03:31:12.561 5584 Level-0 table #3: 207 bytes OK
+2026/06/01-03:31:12.561 5584 Recovering log #9
+2026/06/01-03:31:12.561 5584 Reusing old log E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Site Characteristics Database/000009.log 
+2026/06/01-03:31:12.654 5584 Delete type=0 #3

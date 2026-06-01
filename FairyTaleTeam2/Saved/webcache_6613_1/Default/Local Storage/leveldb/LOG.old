@@ -1,3 +1,7 @@
-2026/06/01-00:50:53.559 3fb4 Reusing MANIFEST C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/01-00:50:53.563 3fb4 Recovering log #24
-2026/06/01-00:50:53.567 3fb4 Reusing old log C:\Users\emanu\Documents\GitHub\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Local Storage\leveldb/000024.log 
+2026/06/01-03:31:12.528 3ee0 Reusing MANIFEST E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/01-03:31:12.536 3ee0 Recovering log #24
+2026/06/01-03:31:12.536 3ee0 Level-0 table #28: started
+2026/06/01-03:31:12.604 3ee0 Level-0 table #28: 71419 bytes OK
+2026/06/01-03:31:12.605 3ee0 Recovering log #28
+2026/06/01-03:31:12.607 3ee0 Reusing old log E:\Unreal Projects\FairyTaleGameJamTeam2\FairyTaleTeam2\Saved\webcache_6613_1\Default\Local Storage\leveldb/000028.log 
+2026/06/01-03:31:12.670 3ee0 Delete type=0 #24
