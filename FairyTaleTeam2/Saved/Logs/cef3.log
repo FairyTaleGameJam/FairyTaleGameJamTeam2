@@ -1,5 +1,8 @@
-[40784:40312:0601/013500.068:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[40784:40312:0601/013500.113:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14644:9312:0601/013504.081:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1FAC75BC1BE95D7A00944330BBEEC059 will be ignored
-[40784:40312:0601/013509.131:ERROR:device_event_log_impl.cc(196)] [01:35:09.106] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[40784:40312:0601/013701.689:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[11956:8036:0601/014209.332:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11956:8036:0601/014209.349:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[11956:8036:0601/014209.394:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11956:8036:0601/014214.507:ERROR:device_event_log_impl.cc(196)] [01:42:14.500] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9988:21948:0601/014215.045:ERROR:backend_impl.cc(989)] Critical error found -8
+[9988:21948:0601/014215.209:WARNING:storage_block-inl.h(138)] Failed data load.
+[7844:21148:0601/014215.230:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F6192989B3BABAA9E7C9D74A7E5D3965 will be ignored
+[11956:8036:0601/014349.540:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
